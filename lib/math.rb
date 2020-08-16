@@ -1,5 +1,6 @@
 def addition(num1, num2)
-  puts num2 + num1
+  sum = num2 + num1
+  sum
 end
 
 def subtraction(num1, num2)
