@@ -9,7 +9,8 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-
+  sum = num2 / num1
+  sum
 end
 
 def multiplication(num1, num2)
